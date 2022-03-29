@@ -1,6 +1,5 @@
 //Name: William Hunt
-//Class: CSCI-581
-//Date: 2/23/22
+
 #include <algorithm>
 #include <cstdlib>
 #include <fstream>
